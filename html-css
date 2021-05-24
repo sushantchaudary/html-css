@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FINDER</title>
+        <link rel="stylesheet" href=style.css type="text/css">
+        </head>
+<body>
+    <header>
+        <div class="main"> 
+            <div class="logo">
+                <img src="ask.png">
+            </div>
+            
+            <ul>
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#">Log In</a></li>
+              <li><a href="#">Sign Up</a></li>
+              <li><a href="#">Gallery</a></li>
+              <li><a href="#">Walk Through</a></li>
+              </ul>
+          </div>
+          <div class="title"><h1>YOU READ NOTHING JON SNOW</h1></div>
+          <div class="button">
+              <a href="#" class="btn">Read Online</a>
+              <a href="#" class="btn">Make Purchase</a>
+          </div>
+    </header>
+</body>
+
+</html>
 
